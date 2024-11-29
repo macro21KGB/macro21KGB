@@ -1,4 +1,11 @@
 ## Hi there 👋
+Hello, my name is Mario and I'm a web developer and a university student at Federico II of Naples (Italy)
+
+I like to also create small games that are available for free at [itch.io](https://macro21kgb.itch.io/)
+
+You can also check my works and projects on my site [mariodeluca.it](https://mariodeluca.com)
+
+- 📫 How to reach me: contact@mariodeluca.com
 
 <!--
 **macro21KGB/macro21KGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
